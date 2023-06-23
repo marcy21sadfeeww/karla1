@@ -1,0 +1,31 @@
+<html>
+<head>
+	<meta charset="utf-8" />
+	<title>Me perdonas attEsteban</title>
+	<script>
+	let nombre = ""
+	nombre = prompt("Introducir Nuestra Fecha De Aniversario")
+	alert("Bienvenida Amor")
+	alert("Me Perdonas Por Todo?")
+	alert("Nunca Olvides Que Te Quiero Mucho")
+	</script>
+</head>
+<body>
+	<h1>Todos Los Dias Te Pienso</h1>
+	<p>Aunque No Me Gusta Que Me Reclames De Esa Manera</p>
+	<p>Me Siento Mal Porque No Estoy A Tu Lado</p>
+	<p>Me Gustaria Compartir El Dia A Dia De Nuevo Contigo bb</p>
+
+	<img src="c:\Users\sepul\OneDrive\Imágenes\beso.jpg" width="300" alt="foto karla">
+	
+	
+	<img src="c:\Users\sepul\OneDrive\Imágenes\karla.jpg" width="200" alt="karla">
+	
+
+	<img src="c:\Users\sepul\OneDrive\Imágenes\karla2.jpg" width="400" alt="te amo">
+	
+	<p>Espero Que Nunca Me Olvides</p>
+	<p>A Persar De Todas Las Peleas Y Malos Ratos Fui Feliz A Tu Lado Preciosa</p>
+	<p>pdta:No Soy Perfecto Corazon</p>
+</body>
+</html>
